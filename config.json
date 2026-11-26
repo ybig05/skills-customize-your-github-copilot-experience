@@ -77,6 +77,30 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "python-testing",
+      "title": "Python Testing with pytest",
+      "description": "Write pytest assertions, parametrized tests, and debug a small Python utility",
+      "path": "assignments/python-testing",
+      "dueDate": "2026-12-03",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Test Suite",
+          "file": "test_starter_code.py",
+          "type": "python"
+        },
+        {
+          "name": "Dependencies",
+          "file": "requirements.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
